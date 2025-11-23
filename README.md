@@ -2,6 +2,13 @@
 
 Welcome to OneClickDZ! We provide payment solutions and APIs for Algeria.
 
+## Our Services
+
+📱 **Mobile Top-Ups** - Recharge mobile credit instantly  
+🌐 **Internet Top-Ups** - Top up internet data packages  
+🎁 **Gift Cards & Digital Products** - Purchase digital vouchers and gift cards  
+💳 **OCPay - Payment Gateway** - Accept online payments in Algeria
+
 ## 📚 Documentation
 
 For complete documentation, visit: **[https://docs.oneclickdz.com/](https://docs.oneclickdz.com/)**
